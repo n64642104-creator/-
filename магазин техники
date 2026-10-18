@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "html": "<header>\n  <h1>Магазин гаджетов</h1>\n\n  <p>\n    <a href=\"\">Каталог</a>\n    <a href=\"\">Акции</a>\n    <a href=\"\">Контакты</a>\n  </p>\n</header>\n\n<main>\n  <h2>Товары</h2>\n\n  <section>\n    <p><b>Наушники</b><br>Беспроводные</p>\n    <p><a href=\"\">Купить</a> <a href=\"\">Подробнее</a></p>\n  </section>\n\n  <section>\n    <p><b>Смарт-часы</b><br>Считают шаги</p>\n    <p><a href=\"\">Купить</a> <a href=\"\">Подробнее</a></p>\n  </section>\n\n  <section>\n    <p><b>Колонка</b><br>Громкий звук</p>\n    <p><a href=\"\">Купить</a> <a href=\"\">Подробнее</a></p>\n  </section>\n</main>\n",
+  "css": "",
+  "js": "",
+  "exportedAt": "2026-01-11T15:58:29.077Z"
+}
